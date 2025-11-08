@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on BLOG</title>
+    <link>/tags/ai/</link>
+    <description>Recent content in AI on BLOG</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Nov 2025 10:31:00 +0530</lastBuildDate>
+    <atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI vs Programming Industry</title>
+      <link>/posts/aivscode/</link>
+      <pubDate>Sat, 08 Nov 2025 10:31:00 +0530</pubDate>
+      <guid>/posts/aivscode/</guid>
+      <description>Analyzing how Artificial Intelligence is influencing the programming industry — opportunities, challenges, and the future of developers.</description>
+    </item>
+    <item>
+      <title>Why AI Should Be Open Source</title>
+      <link>/posts/whyaiwillfoss/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/whyaiwillfoss/</guid>
+      <description>An analysis of the importance of making AI open-source — promoting accessibility, collaboration, and innovation.</description>
+    </item>
+    <item>
+      <title>Introduction — Dihan Ramanayaka</title>
+      <link>/posts/dihanwho/</link>
+      <pubDate>Fri, 07 Nov 2025 09:55:00 +0530</pubDate>
+      <guid>/posts/dihanwho/</guid>
+      <description>A personal introduction and my mission to make AI open source and accessible for everyone.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tools on BLOG</title>
+    <link>/tags/tools/</link>
+    <description>Recent content in Tools on BLOG</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Nov 2025 09:55:00 +0530</lastBuildDate>
+    <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Tools for Student Developers (2025 Edition)</title>
+      <link>/posts/besttools2025/</link>
+      <pubDate>Fri, 07 Nov 2025 09:55:00 +0530</pubDate>
+      <guid>/posts/besttools2025/</guid>
+      <description>A custom guide to essential tools for student developers in 2025 — focusing on productivity, learning, and open-source accessibility.</description>
+    </item>
+  </channel>
+</rss>

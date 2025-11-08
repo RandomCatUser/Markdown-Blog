@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on BLOG</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on BLOG</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Nov 2025 10:31:00 +0530</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>/categories/ai/</link>
+      <pubDate>Sat, 08 Nov 2025 10:31:00 +0530</pubDate>
+      <guid>/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>/categories/development/</link>
+      <pubDate>Sat, 08 Nov 2025 10:31:00 +0530</pubDate>
+      <guid>/categories/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>/categories/technology/</link>
+      <pubDate>Sat, 08 Nov 2025 10:31:00 +0530</pubDate>
+      <guid>/categories/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>/categories/education/</link>
+      <pubDate>Sat, 08 Nov 2025 10:30:00 +0530</pubDate>
+      <guid>/categories/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>/categories/personal/</link>
+      <pubDate>Sat, 08 Nov 2025 10:30:00 +0530</pubDate>
+      <guid>/categories/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflection</title>
+      <link>/categories/reflection/</link>
+      <pubDate>Sat, 08 Nov 2025 10:30:00 +0530</pubDate>
+      <guid>/categories/reflection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>/categories/tools/</link>
+      <pubDate>Sat, 08 Nov 2025 10:30:00 +0530</pubDate>
+      <guid>/categories/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Source</title>
+      <link>/categories/open-source/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/categories/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>/categories/philosophy/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>/categories/about/</link>
+      <pubDate>Fri, 07 Nov 2025 09:55:00 +0530</pubDate>
+      <guid>/categories/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guides</title>
+      <link>/categories/guides/</link>
+      <pubDate>Fri, 07 Nov 2025 09:55:00 +0530</pubDate>
+      <guid>/categories/guides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Students</title>
+      <link>/categories/students/</link>
+      <pubDate>Fri, 07 Nov 2025 09:55:00 +0530</pubDate>
+      <guid>/categories/students/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>/categories/projects/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/categories/projects/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

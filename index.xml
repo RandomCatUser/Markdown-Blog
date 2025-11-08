@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BLOG</title>
+    <link>/</link>
+    <description>Recent content on BLOG</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Nov 2025 10:31:00 +0530</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI vs Programming Industry</title>
+      <link>/posts/aivscode/</link>
+      <pubDate>Sat, 08 Nov 2025 10:31:00 +0530</pubDate>
+      <guid>/posts/aivscode/</guid>
+      <description>Analyzing how Artificial Intelligence is influencing the programming industry — opportunities, challenges, and the future of developers.</description>
+    </item>
+    <item>
+      <title>I Am Just Depressed With the Education System in Sri Lanka</title>
+      <link>/posts/nolakedusl/</link>
+      <pubDate>Sat, 08 Nov 2025 10:30:00 +0530</pubDate>
+      <guid>/posts/nolakedusl/</guid>
+      <description>A reflection on the challenges and pressures of the Sri Lankan education system from a student’s perspective.</description>
+    </item>
+    <item>
+      <title>Ollama: Why and How to Use It</title>
+      <link>/posts/ollamarunai/</link>
+      <pubDate>Sat, 08 Nov 2025 10:30:00 +0530</pubDate>
+      <guid>/posts/ollamarunai/</guid>
+      <description>A comprehensive guide to Ollama — what it is, why it matters, and how to download, install, and use it effectively for coding and AI projects.</description>
+    </item>
+    <item>
+      <title>Why AI Should Be Open Source</title>
+      <link>/posts/whyaiwillfoss/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/whyaiwillfoss/</guid>
+      <description>An analysis of the importance of making AI open-source — promoting accessibility, collaboration, and innovation.</description>
+    </item>
+    <item>
+      <title>Best Tools for Student Developers (2025 Edition)</title>
+      <link>/posts/besttools2025/</link>
+      <pubDate>Fri, 07 Nov 2025 09:55:00 +0530</pubDate>
+      <guid>/posts/besttools2025/</guid>
+      <description>A custom guide to essential tools for student developers in 2025 — focusing on productivity, learning, and open-source accessibility.</description>
+    </item>
+    <item>
+      <title>Introduction — Dihan Ramanayaka</title>
+      <link>/posts/dihanwho/</link>
+      <pubDate>Fri, 07 Nov 2025 09:55:00 +0530</pubDate>
+      <guid>/posts/dihanwho/</guid>
+      <description>A personal introduction and my mission to make AI open source and accessible for everyone.</description>
+    </item>
+    <item>
+      <title>Introducing RandomCatUser</title>
+      <link>/posts/randomintro/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/randomintro/</guid>
+      <description>Introducing RandomCatUser — an open, template-based approach to using CodeScript efficiently.</description>
+    </item>
+  </channel>
+</rss>
