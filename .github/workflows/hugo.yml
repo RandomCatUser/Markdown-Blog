@@ -1,36 +1,38 @@
-name: Hugo GitHub Pages
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
     branches:
-      - main  # run workflow on pushes to main
-  workflow_dispatch:
+      - main  # Trigger deployment on push to main branch
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    # 1️⃣ Checkout repo
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      # Step 1: Checkout the repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    # 2️⃣ Setup Hugo
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v7
-      with:
-        hugo-version: '0.128.0'
-        extended: true
+      # Step 2: Setup Hugo
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v6
+        with:
+          hugo-version: '0.111.3' # Replace with the Hugo version you want
 
-    # 3️⃣ Build Hugo site
-    - name: Build Hugo
-      run: hugo --minify --config hugo.toml --baseURL "https://randomcatuser.github.io/Markdown-Blog/"
+      # Step 3: Install Git (needed for deployment)
+      - name: Setup Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-    # 4️⃣ Deploy to GitHub Pages (root of main branch)
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v4
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
-        publish_branch: main
-        force_orphan: true
+      # Step 4: Build the Hugo site
+      - name: Build Hugo site
+        run: hugo --minify
+
+      # Step 5: Deploy to GitHub Pages
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v6
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
